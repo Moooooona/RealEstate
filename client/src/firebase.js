@@ -1,16 +1,15 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
+
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "dreamhome-estate.firebaseapp.com",
-  projectId: "dreamhome-estate",
-  storageBucket: "dreamhome-estate.appspot.com",
-  messagingSenderId: "36397756620",
-  appId: "1:36397756620:web:c4383a5408b4fc851e1269"
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY ,
+  authDomain: "dreamhome-47a4e.firebaseapp.com",
+  projectId: "dreamhome-47a4e",
+  storageBucket: "dreamhome-47a4e.appspot.com",
+  messagingSenderId: "106397883516",
+  appId: "1:106397883516:web:3b2d631be2ab87c9597df9"
 };
 
 // Initialize Firebase
